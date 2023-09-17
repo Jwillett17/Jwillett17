@@ -7,7 +7,7 @@
 - <b>Java </b>
   - [Recipe Collection Manager]
 - <b>Python</b>
-  - [Guessing Game]([insert repository url](https://github.com/Jwillett17/Guessing-Game))
+  - [Guessing Game](https://github.com/Jwillett17/Guessing-Game)
   - [Parse a File to Determine Word and Sentence Count]
   - [Determine the Factorial of a provided input]
   - [Draw a Koch Curve]
