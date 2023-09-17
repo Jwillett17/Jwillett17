@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Master's of Science in Cyber Security Coursework</b>
-  - [Coursework Collection]
+  - [Coursework Collection](https://github.com/Jwillett17/Coursework_Collection)
 - <b>Java </b>
   - [Recipe Collection Manager]
 - <b>Python</b>
