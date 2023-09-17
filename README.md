@@ -10,7 +10,7 @@
   - [Guessing Game](https://github.com/Jwillett17/Guessing-Game)
   - [Parse a File to Determine Word and Sentence Count](https://github.com/Jwillett17/Parse-a-File)
   - [Determine the Factorial of a provided input]
-  - [Draw a Koch Curve]
+  - [Draw a Koch Curve](https://github.com/Jwillett17/Draw-Koch-Curve)
 
 
 <h2> 🤳 Connect with me:</h2>
