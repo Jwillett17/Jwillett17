@@ -9,7 +9,7 @@
 - <b>Python</b>
   - [Guessing Game](https://github.com/Jwillett17/Guessing-Game)
   - [Parse a File to Determine Word and Sentence Count](https://github.com/Jwillett17/Parse-a-File)
-  - [Determine the Factorial of a provided input]
+  - [Determine the Factorial of a provided input](https://github.com/Jwillett17/Factorial)
   - [Draw a Koch Curve](https://github.com/Jwillett17/Draw-Koch-Curve)
 
 
