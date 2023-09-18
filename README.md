@@ -5,7 +5,7 @@
 - <b>Master's of Science in Cyber Security Coursework</b>
   - [Coursework Collection](https://github.com/Jwillett17/Coursework_Collection)
 - <b>Java </b>
-  - [Recipe Collection Manager]
+  - [Recipe Collection Manager](https://github.com/Jwillett17/Recipe-Collection-Manager)
 - <b>Python</b>
   - [Guessing Game](https://github.com/Jwillett17/Guessing-Game)
   - [Parse a File to Determine Word and Sentence Count](https://github.com/Jwillett17/Parse-a-File)
